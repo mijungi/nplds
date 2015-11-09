@@ -7,7 +7,6 @@ clc;
 
 addpath core_functions/
 addpath gpml-matlab/gpml
-addpath Figure3_and_4/functions
 
 % essential quantities (fixing pinp==0)
 k = 2; % dimensionality of hidden states
